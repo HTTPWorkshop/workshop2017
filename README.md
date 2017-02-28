@@ -25,6 +25,8 @@ Finally, if you are a student working in a relevant area, this is a great opport
 
 The Workshop will be held in London, United Kingdom, 12-13 June 2017.
 
+This year's Workshop is being generously hosted by [Facebook](https://facebook.com/). Thanks!
+
 
 ## Want to Come?
 
@@ -67,8 +69,4 @@ The PC for the Workshop is:
 * Julian Reschke - julian.reschke at greenbytes dot de
 * Martin Thomson - martin.thomson at gmail dot com
 
-
-## Sponsor
-
-This year's Workshop is being generously hosted by [Facebook](https://facebook.com/). Thanks!
 
