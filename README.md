@@ -1,7 +1,7 @@
 
 # 2017 HTTP Workshop
 
-The third HTTP Workshop is on for 2017.
+**The third HTTP Workshop is on for 2017.**
 
 This is a unique event; most of the time is unstructured, promoting unfiltered discussion among the major implementers and practitioners of HTTP. Each day will have a few "anchor" talks to stimulate discussion, but we expect attendees to drive most of the agenda. 
 
