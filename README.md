@@ -49,14 +49,14 @@ Note that if necessary, we will limit representation from single companies and p
 
 All attendees will be expected to adhere to the [Conference Code of Conduct](http://confcodeofconduct.com/). We will publish a summary of what happens at the workshop.
 
-Please make submissions by 10 April 2017; a link will be available shortly.
+Please make statements of interest by **15 April 2017**; a link will be available shortly.
 
 
 ## Important Dates
 
-* Submissions Due: 10 April 2017
-* Attendees Notified by: 20 April 2017
-* Attendee Confirmation by: 1 May 2017
+* Statement of Interest by:: 15 April 2017
+* Attendees Notified by: 25 April 2017
+* Attendee Confirmation by: 5 May 2017
 * HTTP Workshop: 12-13 June 2017
 
 
@@ -68,5 +68,3 @@ The PC for the Workshop is:
 * Mark Nottingham - mnot at mnot dot net
 * Julian Reschke - julian.reschke at greenbytes dot de
 * Martin Thomson - martin.thomson at gmail dot com
-
-
