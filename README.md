@@ -49,7 +49,7 @@ Note that if necessary, we will limit representation from single companies and p
 
 All attendees will be expected to adhere to the [Conference Code of Conduct](http://confcodeofconduct.com/). We will publish a summary of what happens at the workshop.
 
-Please make statements of interest by **15 April 2017**; a link will be available shortly.
+Please [make statements of interest using this form](https://goo.gl/forms/Q5gIZUr4CuDMcRi12) by **15 April 2017**.
 
 
 ## Important Dates
