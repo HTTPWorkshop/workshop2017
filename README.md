@@ -54,7 +54,7 @@ Please make statements of interest by **15 April 2017**; a link will be availabl
 
 ## Important Dates
 
-* Statement of Interest by:: 15 April 2017
+* Statement of Interest by: 15 April 2017
 * Attendees Notified by: 25 April 2017
 * Attendee Confirmation by: 5 May 2017
 * HTTP Workshop: 12-13 June 2017
